@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4ade80"/>
+      <stop offset="100%" style="stop-color:#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#bg)"/>
+  <g fill="#1a1a2e">
+    <!-- GitHub-like cat silhouette simplified -->
+    <circle cx="64" cy="58" r="28"/>
+    <circle cx="50" cy="48" r="8" fill="#1a1a2e"/>
+    <circle cx="78" cy="48" r="8" fill="#1a1a2e"/>
+    <!-- Ears -->
+    <polygon points="40,35 48,55 32,50"/>
+    <polygon points="88,35 80,55 96,50"/>
+    <!-- Arrow -->
+    <polygon points="64,78 54,98 60,98 60,108 68,108 68,98 74,98" fill="#1a1a2e"/>
+  </g>
+  <!-- Checkmark -->
+  <path d="M95 85 L105 95 L120 75" stroke="#1a1a2e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
