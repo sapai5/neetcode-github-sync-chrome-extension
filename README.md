@@ -156,8 +156,6 @@ Feel free to submit issues and pull requests!
 
 ## License
 
-MIT License - feel free to use and modify as needed.
+Author: Sahil Pai
 
 ---
-
-Made with ❤️ for the grind. Keep solving! 💪
